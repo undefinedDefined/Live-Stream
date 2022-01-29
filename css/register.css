@@ -1,0 +1,9 @@
+body{
+    background: #FFAFBD;
+    background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);
+    background: linear-gradient(to right, #ffc3a0, #FFAFBD);
+}
+
+body > div{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
